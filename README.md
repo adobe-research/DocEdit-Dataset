@@ -27,11 +27,15 @@ future work.
 
 This is a partial release of the Adobe Research DocEdit Dataset described in our AAAI 2023 paper. The current release includes
 the original image, the user request, and the output command for the training and validation splits of the DocEdit-PDF subset
-of the DocEdit Dataset. The dataset can be accessed [here](https://github.com/adobe-research/DocEdit-Dataset/releases/download/v1.0/DocEdit-PDF-trainval.tar.gz).
+of the DocEdit Dataset. The dataset can be accessed [here](https://github.com/adobe-research/DocEdit-Dataset/releases/tag/v1.0).
 
 # License
  
-The Enron Email Data and government forms are in the public domain or are licensed under their respective licenses (as applicable).  All other materials, including the modifications made to the original documents (if provided) and the descriptions of the modifications which include the natural language description and the structured command-like descriptions that include the bounding boxes, etc., are licensed under the [Adobe Research DocEdit Dataset License, Version 1.0](./LICENSE).
+The [Enron Email Data](https://aws.amazon.com/datasets/enron-email-data/) and government forms are in the public domain or are
+licensed under their respective licenses (as applicable).  All other materials, including the modifications made to the
+original documents (if provided) and the descriptions of the modifications which include the natural language description and
+the structured command-like descriptions that include the bounding boxes, etc., are licensed under the
+[Adobe Research DocEdit Dataset License, Version 1.0](./LICENSE).
 
 # Citation
 
